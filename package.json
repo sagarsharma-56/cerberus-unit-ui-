@@ -1,0 +1,16 @@
+{
+  "name": "cerberus-web-sim",
+  "version": "2.0.0",
+  "description": "Cerberus Unit - Web Simulator",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "keywords": [
+    "react",
+    "simulator",
+    "web-serial"
+  ],
+  "author": "Sagar",
+  "license": "MIT",
+  "dependencies": {}
+}

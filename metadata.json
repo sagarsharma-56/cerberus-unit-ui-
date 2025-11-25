@@ -1,0 +1,7 @@
+{
+  "name": " Cerberus Unit Simulator",
+  "description": "A web-based simulation of the Cerberus Unit hardware security system. Features a virtual LCD, OLED, keypad input, and complete security logic ported from Arduino C++.",
+  "requestFramePermissions": [
+    "serial"
+  ]
+}
